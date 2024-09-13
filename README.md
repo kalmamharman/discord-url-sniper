@@ -1,1 +1,1 @@
-# discord-url-sniper
+discord url sniper
